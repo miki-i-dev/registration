@@ -74,7 +74,8 @@
 - `after_exception.html / .css `: データベース接続エラー等の例外発生時に表示するページ
 
 ⚙️ その他
-`image/` : プロフィール画像を格納するフォルダ
-`docs/` : スクリーンショットを格納するフォルダ
-`4eachblog_logo.jpg` : サイトロゴ画像
-`.gitignore` : Git管理から除外する設定ファイル（.vscode 等）
+
+- `image/` : プロフィール画像を格納するフォルダ
+- `docs/` : スクリーンショットを格納するフォルダ
+- `4eachblog_logo.jpg` : サイトロゴ画像
+- `.gitignore` : Git管理から除外する設定ファイル（.vscode 等）
